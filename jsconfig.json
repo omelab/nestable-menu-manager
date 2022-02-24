@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@data/*": ["_data/*"],
+      "@helpers/*": ["_helpers/*"],
+      "@services/*": ["_services/*"]
+    }
+  }
+}
